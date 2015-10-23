@@ -7,3 +7,5 @@ CREATE TABLE "items" (
 COMMIT;
 
 -- DROP TABLE IF EXISTS "items";
+
+--known as  thru table or join table to create a many to many relationship
